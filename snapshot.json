@@ -1,6 +1,6 @@
 {
-    "icon-address": "hx245",
+    "icon_address": "hx245",
     "amount": 200000,
-    "defi-user": true,
-    "vesting-percentage": 20
+    "defi_user": true,
+    "vesting_percentage": 20
 }
